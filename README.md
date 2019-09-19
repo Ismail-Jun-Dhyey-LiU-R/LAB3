@@ -8,5 +8,4 @@ The package includes two functions:
 Pass status of Travis building:
 https://travis-ci.org/yewei369/FancyPack.R.LiU.3.svg?branch=master
 
-name<-"Jun Li"
-liuid<-"junli559"
+
